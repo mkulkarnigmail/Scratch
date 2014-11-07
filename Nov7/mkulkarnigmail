@@ -1,0 +1,53 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java? You need to learn how to learn how to read and write languages
+
+
+2) What is learning to program ultimately about?
+the program is about learning to think logically and approach problems methodically 
+
+3) How does Scratch "lower the bar" to programming?
+It lowers the bar by budding computer scientists to focus on problems rather than synax 
+
+4) What is a statement in a programming language?
+Statement is a directive that tells the computer to do something 
+
+5) What is a Boolean expression?
+Boolean expression is an expression that is either true or false 
+
+6) What is a conditional statement?
+ is something that must be true in order for something to happen
+
+7) What is a loop used for in a programming language?
+can induce multiple executions of statements meaning it keeps going on and on 
+
+8) What is the difference between a local variable and a global variable?
+Local variable is just one thing doing something and global makes everything do it at the same time
+
+9) What is a Boolean variable?
+A variable that only takes on a value of true 
+
+10) Which type of blocks in Scratch can be considered threads?
+The green flag can be considered an thread 
+
+11) Which type of blocks in Scratch can be considered event handlers?
+The block that say "When I receive" and "broadcast"
+
+12) How many sprites are implemented in Oscartime?
+There are 9 sprites 
+
+13) How many threads are used to display the Oscartime game instructions?
+There are 5
+
+14) How many threads are used by Oscartime's Oscar sprite?
+There are 3 
+
+15) What programming constructs does Scratch NOT support? •methods, which allow you pass control of execution from one sequence of blocks to another;
+•parameters, which allow you to influence the behavior of methods;
+•return values, which allow one sequence of blocks to "return" information to another;
+•inheritance and polymorphism, which allow relationships to exist among data structures.
